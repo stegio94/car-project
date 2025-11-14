@@ -1,4 +1,5 @@
 Car Price Analysis Project Overview
+
 This project analyses car prices in the US market to understand the factors affecting pricing. Insights help companies design cars and develop strategies that meet market demands. Key factors studied include brand, model, engine size, horsepower, and fuel type.
 
 ETL Pipeline
